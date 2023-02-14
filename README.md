@@ -1,5 +1,5 @@
 # pacman-search
-My implementation of a program developed by UC Berkeley that trains an AI agent to play the classic game of Pac-Man
+My implementation of a program developed by [UC Berkeley](http://ai.berkeley.edu/search.html) that trains an AI agent to play the classic game of Pac-Man
 
 search.py contains four different algorithms used by AIs to search simulated spaces:
 
